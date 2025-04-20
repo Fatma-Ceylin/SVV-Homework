@@ -5,7 +5,7 @@ We completed it during a class session with our professor.
 
 ---
 
-## 📌 Project Purpose
+##  Project Purpose
 
 This project extends the Java `Queue` structure by implementing two custom queue types:
 
@@ -16,7 +16,7 @@ In the `Main` class, both queue types are tested and compared to demonstrate the
 
 ---
 
-## 🧩 Class Overview
+##  Class Overview
 
 ### 1. `LQueue<E>` – Linear Queue
 - Based on `LinkedList`.
@@ -38,7 +38,7 @@ In the `Main` class, both queue types are tested and compared to demonstrate the
 
 ---
 
-## ✅ Summary
+##  Summary
 
 This project demonstrates key OOP principles such as:
 - Inheritance
